@@ -3,7 +3,7 @@
  </div>
  
 <h3 align="center">
-  Challenge 01: Stack Concepts!
+  Challenge 01: Stack Concepts
 </h3>
 
 
